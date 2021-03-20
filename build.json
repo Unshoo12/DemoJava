@@ -1,5 +1,3 @@
-{
-  "filelist": [
     {
       "name": "File1",
       "content": "this is data in File1"
@@ -16,6 +14,3 @@
       "name": "File4",
       "content": "this is data in File4"
       }
-  ]
-  
-}
